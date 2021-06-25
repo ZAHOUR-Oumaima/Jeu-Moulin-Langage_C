@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1580168272 source:c:\users\asma\documents\techndeprogrammation\projet\jeumoulin_finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fct.h"
+	<windows.h>
+
+1580680867 source:c:\users\asma\documents\techndeprogrammation\projet\jeumoulin_finale\fct.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"fct.h"
+
+1580676755 c:\users\asma\documents\techndeprogrammation\projet\jeumoulin_finale\fct.h
+
